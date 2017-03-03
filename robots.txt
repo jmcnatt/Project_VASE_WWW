@@ -1,0 +1,7 @@
+# Disallow all crawlers
+
+User-agent: *
+Disallow: /resources/*
+Disallow: /media/*
+Disallow: /cgi-bin/*
+Disallow: /phpadmin/*
